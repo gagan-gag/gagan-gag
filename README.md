@@ -1,6 +1,11 @@
 # 💫 About Me:
-NEWBIE
+**Turning coffee ☕ into code and data into intelligence.**
 
+I’m Gagan — Engineering student exploring **AI, Machine Learning & Data Science**. I enjoy building things, breaking things, and occasionally wondering why the code worked yesterday. 😄
+
+Currently learning, building, and shipping **AI-powered solutions**.
+
+**Python • ML • LLMs • RAG • SQL • FastAPI** 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-r-15948b393) 
