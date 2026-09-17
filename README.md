@@ -1,7 +1,7 @@
 # 💫 About Me:
 **Turning coffee ☕ into code and data into intelligence.**
 
-I’m Gagan — Engineering student exploring **AI, Machine Learning & Data Science**. I enjoy building things, breaking things, and occasionally wondering why the code worked yesterday. 😄
+I’m Gagan - Engineering student exploring **AI, Machine Learning & Data Science**. I enjoy building things, breaking things, and occasionally wondering why the code worked yesterday. 😄
 
 Currently learning, building, and shipping **AI-powered solutions**.
 
